@@ -1,0 +1,14 @@
+# 临时下载目录
+segments/
+
+# 输出视频文件
+*.mp4
+*.cmfv
+*.cmfa
+*.vtt
+
+# 下载列表
+*_urls.txt
+
+# macOS
+.DS_Store
